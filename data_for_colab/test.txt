@@ -1,0 +1,11 @@
+/content/darknet/data_for_colab/data/107.jpg
+/content/darknet/data_for_colab/data/117.jpg
+/content/darknet/data_for_colab/data/18.jpg
+/content/darknet/data_for_colab/data/27.jpg
+/content/darknet/data_for_colab/data/36.jpg
+/content/darknet/data_for_colab/data/45.jpg
+/content/darknet/data_for_colab/data/54.jpg
+/content/darknet/data_for_colab/data/64.jpg
+/content/darknet/data_for_colab/data/73.jpg
+/content/darknet/data_for_colab/data/82.jpg
+/content/darknet/data_for_colab/data/91.jpg

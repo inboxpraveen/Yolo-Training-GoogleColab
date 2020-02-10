@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>90.jpg</filename>
+  <path>C:\Users\Praveen Kumar\Desktop\Yolo-Training-GoogleColab-master\Yolo-Training-GoogleColab-master\data_converstion\main\input\90.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1000</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>aeroplane</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>3</ymin>
+      <xmax>989</xmax>
+      <ymax>756</ymax>
+    </bndbox>
+  </object>
+</annotation>
