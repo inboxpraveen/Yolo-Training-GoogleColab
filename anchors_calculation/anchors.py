@@ -105,9 +105,9 @@ def kmeans(X,centroids,eps,anchor_file):
 
 def main(argv):
     parser = argparse.ArgumentParser()
-    parser.add_argument('-filelist', default = 'C:/Users/Praveen Kumar/Desktop/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/train_test_conversion/train.txt',
+    parser.add_argument('-filelist', default = '/Users/Praveen Kumar/Desktop/Yolo-Training-GoogleColab-master/train_test_conversion/train.txt',
                         help='path to filelist\n' )
-    parser.add_argument('-output_dir', default = 'C:/Users/Praveen Kumar/Desktop/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/anchors_calculation/anchors', type = str,
+    parser.add_argument('-output_dir', default = '/Users/Praveen Kumar/Desktop/Yolo-Training-GoogleColab-master/anchors_calculation/anchors', type = str,
                         help='Output anchor directory\n' )
     parser.add_argument('-num_clusters', default = 6, type = int,
                         help='number of clusters\n' )
